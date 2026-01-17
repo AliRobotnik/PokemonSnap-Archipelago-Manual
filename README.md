@@ -25,7 +25,7 @@ This is a manual apworld randomizer for Pokemon Snap for Archipelago. Items such
 -Filler Item: Bad Pic
 
 ## Checks That Send Out Items
--1 Starting check "Zero-One" to unlock 1st level
+-1 Starting level (not a check!, it starts in your inventory for free)
 
 -62 Normal Pics (Can be enabled/disabled in yaml)
 
